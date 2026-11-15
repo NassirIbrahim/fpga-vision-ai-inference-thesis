@@ -33,4 +33,3 @@ The proposed approach trains a neural network model to recognize road signs from
 
 ## Repository Contents
 * [`Nassiri_Ibrahim_Thesis_Report.pdf`](./Nassiri_Ibrahim_Thesis_Report.pdf) — Full End-of-Studies Project Report (English Version)
-* `/src` — Source code for ANN/SNN training, model standardization, and VHDL hardware synthesis
